@@ -12,3 +12,4 @@ Complete the implementations and ensure that the following are pushed to GitHub.
 - **binary\_search\_tree.py**
 - **binary\_search\_tree\_test.py**
 - **queue\_array.py (from lab 3)**
+- **queue\_array\_tests.py (from lab 3)**
